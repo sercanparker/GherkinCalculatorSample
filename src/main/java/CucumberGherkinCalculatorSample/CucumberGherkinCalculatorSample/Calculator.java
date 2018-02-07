@@ -17,6 +17,11 @@ public class Calculator {
 	private void setNumberOnScreen(int numberOnScreen) {
 		this.numberOnScreen = numberOnScreen;
 	}
+
+	public void Multiple(int number1, int number2) {
+		int number =  number1 * number2;
+		setNumberOnScreen(number);
+	}
 	
 	
 }
