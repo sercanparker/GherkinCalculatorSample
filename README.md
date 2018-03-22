@@ -1,2 +1,2 @@
 # GherkinCalculatorSample
-This project was developed to understand gherkin as beginner.
+This project was developed to understand gherkin as beginner...
