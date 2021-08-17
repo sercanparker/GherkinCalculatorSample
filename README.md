@@ -1,2 +1,2 @@
-# GherkinCalculatorSample
+# GherkinCalculatorSample Api
 This project was developed to understand gherkin as beginner...
